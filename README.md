@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm John!</h1>
-<h3 align="center">A passionate fullstack developer from NC!</h3>
+<h3 align="center">A Software Engineer at @100Devs from Wilmington, NC!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oejdevelopment&label=Profile%20views&color=0e75b6&style=flat" alt="oejdevelopment" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oejdevelopment" alt="oejdevelopment" /></a> </p>
 
-- 🌱 I’m currently learning **#100Devs**
+- 🌱 I’m currently learning **Databases!**
 
 - 👨‍💻 All of my projects are available at [https://oejdevelopment.netlify.app/](https://oejdevelopment.netlify.app/)
 
-- 💬 Ask me about **3d Printing, Javascript, and MMO's!**
+- 💬 Ask me about **3d Printing, Javascript, and servers!**
 
-- 📫 How to reach me **oejdevelopment@gmail.com**
+- 📫 Reach me at **oejdevelopment@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
